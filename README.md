@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-### Howdy! 🤠
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trumant&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trumant&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trumant&theme=nord_dark)
